@@ -1,0 +1,6 @@
+{
+  "app_name": "CloudSynced Media Synchronizer",
+  "default_media": "Cloud_Demo_Stream_1080p.mp4",
+  "sync_interval_ms": 1000,
+  "max_rooms": 50
+}
